@@ -122,7 +122,7 @@ voicebridge/
 * **`mp_hand_gesture/`** – Contains the trained TensorFlow/Keras model used for gesture classification.
 * **`gesture.names`** – Contains the gesture class names used by the model.
 * **`templates/`** – Contains the HTML pages for the application modules.
-* **`TechVidvan-hand_gesture_detection.py`** – Standalone implementation for testing the gesture recognition system.
+* **`hand_gesture_detection.py`** – Standalone implementation for testing the gesture recognition system.
 * **`.gitignore`** – Prevents environment-specific and generated files from being committed.
 
 ## Application Workflow
